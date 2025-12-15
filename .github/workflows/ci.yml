@@ -22,9 +22,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Install system deps
+        run: sudo apt-get update && sudo apt-get install -y make
+
       - name: Run pipeline + tests
-        run: |
-          make all
+        run: make all
 
       - name: Upload processed outputs
         uses: actions/upload-artifact@v4
