@@ -1,0 +1,13 @@
+location,country,region,is_manufacturing_hub
+Hamburg,Germany,Europe,1
+Rotterdam,Netherlands,Europe,1
+Los Angeles,USA,North America,1
+New York,USA,North America,1
+Santos,Brazil,South America,1
+Buenos Aires,Argentina,South America,1
+Mumbai,India,Asia,1
+Chennai,India,Asia,1
+Shanghai,China,Asia,1
+Yokohama,Japan,Asia,1
+Busan,South Korea,Asia,1
+Durban,South Africa,Africa,1

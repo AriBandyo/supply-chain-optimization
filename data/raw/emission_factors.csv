@@ -1,0 +1,7 @@
+category,sub_category,emission_kgco2_per_unit
+production,low_efficiency_plant,3.2
+production,medium_efficiency_plant,2.5
+production,high_efficiency_plant,1.9
+transport,sea_freight_per_km,8e-05
+transport,rail_per_km,4e-05
+transport,road_per_km,0.00012

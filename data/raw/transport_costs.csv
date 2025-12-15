@@ -1,0 +1,27 @@
+origin,destination,distance_km,transport_cost_usd_per_unit
+Hamburg,Santos,9800,1.75
+Hamburg,New York,6200,1.4
+Hamburg,Shanghai,19500,2.9
+Hamburg,Durban,9400,1.8
+Rotterdam,Buenos Aires,10900,1.9
+Rotterdam,New York,5850,1.35
+Rotterdam,Mumbai,15500,2.6
+Rotterdam,Durban,9400,1.8
+Los Angeles,Shanghai,10400,1.95
+Los Angeles,Yokohama,8800,1.8
+Los Angeles,Santos,10200,1.9
+Los Angeles,New York,4500,1.2
+New York,Hamburg,6200,1.4
+New York,Santos,7600,1.65
+New York,Rotterdam,5850,1.35
+Mumbai,Rotterdam,15500,2.6
+Mumbai,Santos,14500,2.4
+Mumbai,Durban,7000,1.55
+Shanghai,Los Angeles,10400,1.95
+Shanghai,Santos,18600,2.85
+Shanghai,Hamburg,19500,2.9
+Yokohama,Los Angeles,8800,1.8
+Yokohama,Shanghai,1900,0.65
+Durban,Santos,7200,1.6
+Durban,Mumbai,7000,1.55
+Durban,Rotterdam,9400,1.8

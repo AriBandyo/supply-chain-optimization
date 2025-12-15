@@ -1,0 +1,11 @@
+market_location,country,region,annual_demand_units
+Santos,Brazil,South America,4200
+Buenos Aires,Argentina,South America,2800
+New York,USA,North America,3500
+Los Angeles,USA,North America,3100
+Hamburg,Germany,Europe,2600
+Rotterdam,Netherlands,Europe,2400
+Mumbai,India,Asia,3900
+Shanghai,China,Asia,5200
+Yokohama,Japan,Asia,3000
+Durban,South Africa,Africa,1800
